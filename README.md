@@ -37,6 +37,14 @@ My IntelliJ IDEA Settings. IDEA Version Is `2018.3`.
 * Other
     * Ensure line feed at file end on Save: ON
 
+### Editor > Font
+
+* Font: Monaco
+    * Show only monospaced fonts: ON
+* Size: 14
+
+* Line Spacing: 1.0
+
 ### Editor > General > Auto Import
 
 * Java
