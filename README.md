@@ -318,6 +318,7 @@ Performance tuning parameters for IntelliJ IDEA. Add these params in idea.vmopti
 -XX:+UseCMSInitiatingOccupancyOnly
 -XX:ReservedCodeCacheSize=240m
 -XX:-TraceClassUnloading
+-XX:SoftRefLRUPolicyMSPerMB=50
 -ea
 -Dsun.io.useCanonCaches=false
 ```
