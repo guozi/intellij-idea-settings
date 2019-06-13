@@ -288,7 +288,9 @@ My IntelliJ IDEA Settings. IDEA Version Is `2018.3`.
 
 + Alibaba Java Coding Guidelines
 
-+ Free MyBatis plugin 
++ Free MyBatis plugin
+
++ GenerateSerialVersionUID
 
 
 
