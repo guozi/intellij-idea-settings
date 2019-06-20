@@ -170,6 +170,11 @@ My IntelliJ IDEA Settings. IDEA Version Is `2018.3`.
 
 * Includes
     * File Header: (Customize)
+    ```
+    /** 
+     * Created by chenyun on ${DATE}
+     */ 
+    ```
 
 ### Editor > File Encodings
 
