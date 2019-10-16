@@ -277,7 +277,7 @@ My IntelliJ IDEA Settings. IDEA Version Is `2018.3`.
 
 + Lombok Plugin
 
-  > `Setting` ->  ***  ->   `Annotation Processors` -> `Enable annotation processing` ->  `ON`
+  > `Setting` ->  `Build,Execution,Deployment`  ->  `Compiler`  ->   `Annotation Processors` -> `Enable annotation processing` ->  `ON`
 
 + Maven Helper
 
@@ -287,7 +287,7 @@ My IntelliJ IDEA Settings. IDEA Version Is `2018.3`.
 
 + String Mainpulation
 
-+ BaseSupport
++ Shellcheck
 
 + .ignore
 
