@@ -281,8 +281,6 @@ My IntelliJ IDEA Settings. IDEA Version Is `2018.3`.
 
 + Maven Helper
 
-+ CodeGlance
-
 + GsonFormat
 
 + String Mainpulation
@@ -296,6 +294,12 @@ My IntelliJ IDEA Settings. IDEA Version Is `2018.3`.
 + Free MyBatis plugin
 
 + GenerateSerialVersionUID
+
++ Translation
+
++ CodeGlance（可选）
+
++ FindBugs-IDEA
 
 
 
