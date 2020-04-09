@@ -181,6 +181,7 @@ My IntelliJ IDEA Settings. IDEA Version Is `2018.3`.
 * Project Encoding: UTF-8
 * Properties Files (*.properties)
     * Default encoding for properties files: UTF-8
+    * Transparent native-to conversion：ON
 
 ### Editor > File Types
 
