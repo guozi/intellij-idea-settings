@@ -282,6 +282,8 @@ My IntelliJ IDEA Settings. IDEA Version Is `2018.3`.
 
 + Maven Helper
 
++ Lombok
+
 + GsonFormat
 
 + String Mainpulation
@@ -301,6 +303,10 @@ My IntelliJ IDEA Settings. IDEA Version Is `2018.3`.
 + CodeGlance（可选）
 
 + FindBugs-IDEA
+
++ SonarLint
+
++ Rainbow Brackets
 
 
 
